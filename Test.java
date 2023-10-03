@@ -6,7 +6,8 @@ class Test{
         System.out.println("hello java");
         System.out.println(new Date());
         System.out.println("one more content");
-        
+        Student student=new Student();
+        student.SayHello();
         
     }
 }
