@@ -9,6 +9,7 @@ class Test {
         Student student = new Student();
         student.SayHello();
         System.out.println("one more build");
+        System.out.println("build 3");
 
     }
 }
