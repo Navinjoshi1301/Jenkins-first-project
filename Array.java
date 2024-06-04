@@ -8,5 +8,4 @@ public class Array {
         System.out.println(arr);
         System.out.println("");
     }
-    
 }
